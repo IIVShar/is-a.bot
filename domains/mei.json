@@ -1,0 +1,9 @@
+{
+    "comment": "Domain for my ai bot website",
+    "owner": {
+        "username": "IIVShar"
+    },
+    "record": {
+        "CNAME": "IIVShar.github.io"
+    }
+}
